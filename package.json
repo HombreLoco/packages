@@ -1,0 +1,19 @@
+{
+  "name": "package-test",
+  "version": "0.0.1",
+  "description": "testing packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package",
+    "testing",
+    "chalk"
+  ],
+  "author": "jacques",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
